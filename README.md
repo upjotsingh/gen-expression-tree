@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🌳 Expression Tree Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**Expression Tree Generator** is an interactive tool for generating and visualizing expression trees from mathematical expressions. It's perfect for developers, students, and educators to understand and analyze expression structures easily.
 
-In the project directory, you can run:
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Real-time Visualization**: Instantly converts mathematical expressions into hierarchical trees.
+- **Supports Multiple Notations**: Input in infix, postfix, or prefix notation.
+- **Interactive UI**: Explore tree nodes.
+- **Educational Utility**: Great for teaching algorithms and expression parsing.
+- **Lightweight & Fast**: Built with React and modern web technologies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🖥️ Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Check out the live demo here: [Expression Tree Generator](https://github.io/gen-expression-tree)  
 
-### `npm run build`
+## 📷 Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Input Panel
+![Input and Tree](https://github.com/user-attachments/assets/ba16f8e3-61d0-4f65-aaf0-c561224b8a88)  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Node Details  
+![Node Details](https://github.com/user-attachments/assets/b54b2d64-18b0-46df-acc1-0ac3fb9a9151)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Frontend**: React, JavaScript, HTML/CSS
+- **Backend**: Node.js
+- **Visualization**: Canvas
+- **Build Tools**: Webpack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💡 Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Input your mathematical expression in the input field.
+2. Select the desired notation (infix, postfix, or prefix).
+3. Click **Generate Tree** to visualize the expression structure.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🌟 Support
 
-## Learn More
+If you found this project helpful, please ⭐ the repository and share it with others!  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Credits:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* For tree layout, I used Knuth's algorithm and this [article](https://llimllib.github.io/pymag-trees/) helped me alot.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
