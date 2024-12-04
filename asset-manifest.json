@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gen-expression-tree/static/css/main.65af435b.css",
+    "main.js": "/gen-expression-tree/static/js/main.7c937f2a.js",
+    "static/js/453.12c0fe4e.chunk.js": "/gen-expression-tree/static/js/453.12c0fe4e.chunk.js",
+    "static/media/binary_tree.jpg": "/gen-expression-tree/static/media/binary_tree.e22d7af6a418c3b2bb6a.jpg",
+    "index.html": "/gen-expression-tree/index.html",
+    "main.65af435b.css.map": "/gen-expression-tree/static/css/main.65af435b.css.map",
+    "main.7c937f2a.js.map": "/gen-expression-tree/static/js/main.7c937f2a.js.map",
+    "453.12c0fe4e.chunk.js.map": "/gen-expression-tree/static/js/453.12c0fe4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65af435b.css",
+    "static/js/main.7c937f2a.js"
+  ]
+}
