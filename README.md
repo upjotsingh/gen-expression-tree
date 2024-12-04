@@ -16,7 +16,7 @@
 
 ## 🖥️ Live Demo
 
-Check out the live demo here: [Expression Tree Generator](https://github.io/gen-expression-tree)  
+Check out the live demo here: [Expression Tree Generator](https://upjotsingh.github.io/gen-expression-tree)  
 
 ## 📷 Screenshots
 
