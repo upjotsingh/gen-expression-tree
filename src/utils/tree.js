@@ -111,13 +111,6 @@ function getSize(root) {
     return size;
 }
 
-function print_coords(root) {
-    if (null != root) {
-        print_coords(root.left)
-        print_coords(root.right)
-    }
-}
-
 export const setCoordinates = (root) => {
     var i = 0
     const OFFSET = 50
@@ -135,7 +128,6 @@ export const setCoordinates = (root) => {
     setCoordinates(root, 0)
 }
 
-// must be async in order to await till animation is done
 export const drawTree = async (root, context) => {
     if (null != root) {
         root.draw(context)
